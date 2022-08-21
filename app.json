@@ -1,0 +1,5 @@
+{
+  "name": "Cyberfort CTF Website",
+  "description": "Cyberfort CTF is an online platform to test and advance skills in Penetration Testing and Cybersecurity.",
+  "keywords": ["ctf", "django", "capture the flag"]
+}
